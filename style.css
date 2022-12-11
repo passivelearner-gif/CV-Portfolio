@@ -1,0 +1,22 @@
+body {
+  background-color: lightgreen;
+}
+
+h1{
+color: #ed2226;
+}
+
+h2{
+color: #f43636;
+}
+
+hr {
+  background-color: white;
+  border-style: solid;
+  height: 0;
+  width: 60%;
+}
+
+.links:hover {
+  color: #FF0000;
+}
